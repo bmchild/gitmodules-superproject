@@ -1,0 +1,9 @@
+[submodule "gitmodules-parent"]
+	path = gitmodules-parent
+	url = git@github.com:bmchild/gitmodules-parent.git
+[submodule "gitmodules-model"]
+	path = gitmodules-model
+	url = git@github.com:bmchild/gitmodules-model.git
+[submodule "gitmodules"]
+	path = gitmodules
+	url = git@github.com:bmchild/gitmodules.git
